@@ -1,0 +1,120 @@
+# Excluded:
+# December 4, 1929	Herbert Hoover	pid=22022	Annual Budget Message to the Congress, Fiscal Year 1931 
+# March 3, 1936	Franklin D. Roosevelt	pid=15255	29 Supplemental Budget Message to Congress. 
+# February 4, 1974	Richard Nixon	pid=4334	31 Remarks on Signing the	Annual Budget Message to the Congress, Fiscal Year 1975. 
+# February 3, 1975	Gerald R. Ford	pid=5327	63 Remarks Upon Signing the Budget Message. 
+# March 9, 1981	Ronald Reagan	pid=43510	Remarks on Signing Documents Transmitting Budget Revisions to the Congress  
+#
+#
+# Annual Budget Message to the Congress
+# 38	
+#
+December 3, 1930	Herbert Hoover	pid=22459	391 	Annual Budget Message to the Congress, Fiscal Year 1932. 
+December 9, 1931	Herbert Hoover	pid=22935	432 	Annual Budget Message to the Congress, Fiscal Year 1933. 
+December 7, 1932	Herbert Hoover	pid=23379	421 	Annual Budget Message to the Congress, Fiscal Year 1934. 
+January 10, 1947	Harry S. Truman	pid=12861	7 	Annual Budget Message to the Congress: Fiscal Year 1948 
+January 12, 1948	Harry S. Truman	pid=13127	5 	Annual Budget Message to the Congress, Fiscal Year 1949 
+January 10, 1949	Harry S. Truman	pid=13434	8 	Annual Budget Message to the Congress: Fiscal Year 1950 
+January 9,  1950	Harry S. Truman	pid=13765	9 	Annual Budget Message to the Congress: Fiscal Year 1951 
+January 15, 1951	Harry S. Truman	pid=13810	13 	Annual Budget Message to the Congress: Fiscal Year 1952 
+January 21, 1952	Harry S. Truman	pid=14172	18 	Annual Budget Message to the Congress: Fiscal Year 1953 
+January 9,  1953	Harry S. Truman	pid=14380	367 	Annual Budget Message to the Congress: Fiscal Year 1954. 
+January 21, 1954	Dwight D. Eisenhower	pid=9919	14 	Annual Budget Message to the Congress: Fiscal Year 1955. 
+January 17, 1955	Dwight D. Eisenhower	pid=10310	17 	Annual Budget Message to the Congress: Fiscal Year 1956 
+January 16, 1956	Dwight D. Eisenhower	pid=10505	12 	Annual Budget Message to the Congress for Fiscal Year 1957. 
+January 16, 1957	Dwight D. Eisenhower	pid=10834	13 	Annual Budget Message to the Congress for Fiscal Year 1958. 
+January 13, 1958	Dwight D. Eisenhower	pid=11323	5 	Annual Budget Message to the Congress-Fiscal Year 1959. 
+January 19, 1959	Dwight D. Eisenhower	pid=11379	10 	Annual Budget Message to the Congress: Fiscal Year 1960. 
+January 18, 1960	Dwight D. Eisenhower	pid=11763	13 	Annual Budget Message to the Congress: Fiscal Year 1961. 
+January 16, 1961	Dwight D. Eisenhower	pid=12078	414 	Annual Budget Message to the Congress: Fiscal Year 1962. 
+January 18, 1962	John F. Kennedy	pid=8588	13 	Annual Budget Message to the Congress, Fiscal Year 1963. 
+January 17, 1963	John F. Kennedy	pid=9241	21 	Annual Budget Message to the Congress, Fiscal Year 1964. 
+January 21, 1964	Lyndon B. Johnson	pid=26013	132 	Annual Budget Message to the Congress, Fiscal Year 1965. 
+January 25, 1965	Lyndon B. Johnson	pid=27041	32 	Annual Budget Message to the Congress, Fiscal Year 1966. 
+January 24, 1966	Lyndon B. Johnson	pid=27637	26 	Annual Budget Message to the Congress, Fiscal Year 1967. 
+January 24, 1967	Lyndon B. Johnson	pid=28150	13 	Annual Budget Message to the Congress, Fiscal Year 1968. 
+January 29, 1968	Lyndon B. Johnson	pid=29015	39 	Annual Budget Message to the Congress, Fiscal Year 1969. 
+January 15, 1969	Lyndon B. Johnson	pid=29335	678 	Annual Budget Message to the Congress, Fiscal Year 1970. 
+February 2, 1970	Richard Nixon	pid=2580	22 	Annual Budget Message to the Congress, Fiscal Year 1971. 
+January 29, 1971	Richard Nixon	pid=3188	33 	Annual Budget Message to the Congress, Fiscal Year 1972. 
+January 24, 1972	Richard Nixon	pid=3452	19 	Annual Budget Message to the Congress, Fiscal Year 1973. 
+January 29, 1973	Richard Nixon	pid=3908	21 	Annual Budget Message to the Congress, Fiscal Year 1974 
+February 4, 1974	Richard Nixon	pid=4335	32 	Annual Budget Message to the Congress, Fiscal Year 1975. 
+February 3, 1975	Gerald R. Ford	pid=5338	64 	Annual Budget Message to the Congress, Fiscal Year 1976. 
+January 21, 1976	Gerald R. Ford	pid=5711	22 	Annual Budget Message to the Congress, Fiscal Year 1977. 
+January 17, 1977	Gerald R. Ford	pid=5565	1066 	Annual Budget Message to the Congress, Fiscal Year 1978. 
+#
+# Message to the Congress Transmitting the Fiscal
+# 15
+January 20, 1978	Jimmy Carter	pid=31067	Budget Message	Message to the Congress Transmitting the Fiscal Year 1979 Budget.  
+January 22, 1979	Jimmy Carter	pid=32601	Budget Message	Message to the Congress Transmitting the Fiscal Year 1980 Budget.  
+January 28, 1980	Jimmy Carter	pid=32851	Budget Message	Message to the Congress Transmitting the Fiscal Year 1981 Budget.  
+January 15, 1981	Jimmy Carter	pid=44518	Budget Message	Message to the Congress Transmitting the Fiscal Year 1982 Budget.  
+February 8, 1982	Ronald Reagan	pid=41977	Message to the Congress Transmitting the Fiscal Year 1983 Budget  
+January 31, 1983	Ronald Reagan	pid=40539	Message to the Congress Transmitting the Fiscal Year 1984 Budget  
+February 1, 1984	Ronald Reagan	pid=40460	Message to the Congress Transmitting the Fiscal Year 1985 Budget  
+February 4, 1985	Ronald Reagan	pid=37902	Message to the Congress Transmitting the Fiscal Year 1986 Budget 
+February 5, 1986	Ronald Reagan	pid=36668	Message to the Congress Transmitting the Fiscal Year 1987 Budget  
+April   27, 1987	Ronald Reagan	pid=34184	Message to the Congress Transmitting the Fiscal Year 1988 District of Columbia Budget  
+February 18, 1988	Ronald Reagan	pid=35434	Message to the Congress Transmitting the Fiscal Year 1989 Budget  
+February 9, 1989	George Bush	pid=16661	Message to the Congress Transmitting the Fiscal Year 1990 Budget 
+January 29, 1990	George Bush	pid=18085	Message to the Congress Transmitting the Fiscal Year 1991 Budget 
+February 4, 1991	George Bush	pid=19271	Message to the Congress Transmitting the Fiscal Year 1992 Budget 
+#
+# Message to Congress Transmitting the Economic Report
+# 29
+# February 6, 1990	George Bush	pid=99388	Message to Congress Transmitting the Economic Report of the President 
+# February 12, 1991	George Bush	pid=99389	Message to Congress Transmitting the Economic Report of the President 
+# February 6, 1992	George Bush	pid=99390	Message to Congress Transmitting the Economic Report of the President 
+# January 13, 1993	George Bush	pid=99391	Message to Congress Transmitting the Economic Report of the President 
+# February 14, 1994	William J. Clinton	pid=99392	Message to Congress Transmitting the Economic Report of the President 
+# February 13, 1995	William J. Clinton	pid=99366	Message to Congress Transmitting the Economic Report of the President 
+# February 14, 1996	William J. Clinton	pid=99365	Message to Congress Transmitting the Economic Report of the President 
+# February 10, 1997	William J. Clinton	pid=99353	Message to Congress Transmitting the Economic Report of the President 
+# February 10, 1998	William J. Clinton	pid=99354	Message to Congress Transmitting the Economic Report of the President 
+# February 4, 1999	William J. Clinton	pid=99355	Message to Congress Transmitting the Economic Report of the President 
+# February 10, 2000	William J. Clinton	pid=99356	Message to Congress Transmitting the Economic Report of the President 
+# January 12, 2001	William J. Clinton	pid=99357	Message to Congress Transmitting the Economic Report of the President 
+# February 5, 2002	George W. Bush	pid=99358	Message to Congress Transmitting the Economic Report of the President 
+# January 29, 2003	George W. Bush	pid=99359	Message to Congress Transmitting the Economic Report of the President 
+# January 30, 2004	George W. Bush	pid=99360	Message to Congress Transmitting the Economic Report of the President 
+# February 11, 2005	George W. Bush	pid=99361	Message to Congress Transmitting the Economic Report of the President 
+# February 13, 2006	George W. Bush	pid=99362	Message to Congress Transmitting the Economic Report of the President 
+# February 12, 2007	George W. Bush	pid=99363	Message to Congress Transmitting the Economic Report of the President 
+# February 11, 2008	George W. Bush	pid=99364	Message to Congress Transmitting the Economic Report of the President 
+# January 16, 2009	George W. Bush	pid=99369	Message to Congress Transmitting the Economic Report of the President 
+# February 11, 2010	Barack Obama	pid=99368	Message to Congress Transmitting the Economic Report of the President 
+# February 23, 2011	Barack Obama	pid=99367	Message to Congress Transmitting the Economic Report of the President 
+# February 17, 2012	Barack Obama	pid=99711	Message to Congress Transmitting the Economic Report of the President 
+# March 15, 2013	Barack Obama	pid=103365	Message to Congress Transmitting the Economic Report of the President 
+# March 10, 2014	Barack Obama	pid=104792	Message to Congress Transmitting the Economic Report of the President 
+# February 19, 2015	Barack Obama	pid=109403	Message to Congress Transmitting the Economic Report of the President 
+# February 22, 2016	Barack Obama	pid=111613	Message to Congress Transmitting the Economic Report of the President 
+# December 15, 2016	Barack Obama	pid=122486	Message to Congress Transmitting the Economic Report of the President 
+# February 21, 2018	Donald J. Trump	pid=129314	Message to Congress Transmitting the Economic Report of the President 
+# 
+# Budget Message of the President
+# 23
+February 6, 1995	William J. Clinton	pid=99387	The Budget Message of the President 
+February 5, 1996	William J. Clinton	pid=99386	The Budget Message of the President 
+February 6, 1997	William J. Clinton	pid=99385	The Budget Message of the President 
+February 2, 1998	William J. Clinton	pid=99384	The Budget Message of the President 
+February 1, 1999	William J. Clinton	pid=99383	The Budget Message of the President 
+February 7, 2000	William J. Clinton	pid=99382	The Budget Message of the President 
+April 9, 2001	George W. Bush	pid=99381	The Budget Message of the President 
+February 4, 2002	George W. Bush	pid=99380	The Budget Message of the President 
+February 3, 2003	George W. Bush	pid=99379	The Budget Message of the President 
+February 2, 2004	George W. Bush	pid=99378	The Budget Message of the President 
+February 7, 2005	George W. Bush	pid=99377	The Budget Message of the President 
+February 6, 2006	George W. Bush	pid=99376	The Budget Message of the President 
+February 5, 2007	George W. Bush	pid=99375	The Budget Message of the President 
+February 4, 2008	George W. Bush	pid=99374	The Budget Message of the President 
+February 26, 2009	Barack Obama	pid=99373	The Budget Message of the President 
+February 1, 2010	Barack Obama	pid=99372	The Budget Message of the President 
+February 14, 2011	Barack Obama	pid=99371	The Budget Message of the President 
+February 13, 2012	Barack Obama	pid=99370	The Budget Message of the President 
+April 10, 2013	Barack Obama	pid=123702	The Budget Message of the President 
+March 4, 2014	Barack Obama	pid=123703	The Budget Message of the President 
+February 2, 2015	Barack Obama	pid=123704	The Budget Message of the President 
+February 9, 2016	Barack Obama	pid=123705	The Budget Message of the President 
+March 16, 2017	Donald J. Trump	pid=123701	The Budget Message of the President
