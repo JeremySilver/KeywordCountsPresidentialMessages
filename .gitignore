@@ -1,0 +1,16 @@
+*~
+speech-regexes*txt
+economicReport-regexes*txt
+budget-regexes*txt
+*pdf
+*png
+*.r
+*.docx
+*.xls
+*.xlsx
+*.ods
+*.zip
+.*
+*.ps
+results*txt
+results*json
